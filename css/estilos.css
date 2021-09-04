@@ -1,0 +1,25 @@
+h1{
+    color: rgb(19, 85, 160);
+    text-align: center;
+}
+h2{
+    color: rgb(231, 65, 65);
+    text-align: center;
+}
+.list1 {
+    text-overflow: clip;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+.list2 {
+    text-overflow: clip;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+body{background-color: rgb(237, 184, 250);}

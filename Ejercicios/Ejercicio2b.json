@@ -1,0 +1,31 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "843 500",
+				"altura": "493 MSNM",
+				"areaterritorial": "1653 km²",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			},
+			{
+				"cabecera": "Usulután",
+				"habitantes": "73 064",
+				"altura": "90 MSNM",
+				"areaterritorial": "139,77 km²",
+				"densidad": "163,87 hab/km²",
+				"_id": "3",
+				"_nombre": "Usulután"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

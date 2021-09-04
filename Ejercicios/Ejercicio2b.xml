@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type=”text/css” href=”ejercicio2b.css” ?>
+<!-- ejemplo2.xml  MV18058 -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="La Libertad">
+<cabecera>Santa Tecla</cabecera>
+<habitantes>843 500</habitantes>
+<altura>493 MSNM</altura>
+<areaterritorial>1653 km²</areaterritorial>
+</departamento>
+<departamento id="3" nombre="Usulután">
+<cabecera>Usulután</cabecera>
+<habitantes>73 064</habitantes>
+<altura>90 MSNM</altura>
+<areaterritorial>139,77 km²</areaterritorial>
+<densidad>163,87 hab/km²</densidad>
+</departamento>
+</pais>

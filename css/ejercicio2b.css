@@ -1,0 +1,8 @@
+/* ejercicio2b.css   MV18058  */
+pais {background-color:lightpink;}
+departamento {background-color:lightblue; display:block;} 
+cabecera {color:palegreen; display:inline;} 
+habitantes {color:goldenrod; display:inline;}
+altura {color:violet;font-size:1cm; display:none;}
+areaterritorial {color:aquamarine; display:inline;}
+densidad {color:teal; display: inline;}

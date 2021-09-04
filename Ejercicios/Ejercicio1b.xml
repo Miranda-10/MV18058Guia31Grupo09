@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type=”text/css” href=”ejercicio1b.css” ?>
+<!-- ejemplo1.xml  MV18058 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="1/09/2021">
+<nombre>Paola</nombre>
+<apellido>Miranda</apellido>
+<direccion>Boulevard Constitucion</direccion>
+<telefono>6022-4250</telefono>
+<email>mv18058@ues.edu.sv</email>
+<website>mv18058.com.sv</website>
+</ficha>
+<ficha id="3" fechaingreso="11/09/2021">
+<nombre>Valeria</nombre>
+<apellido>Campos</apellido>
+<direccion>Antiguo Cuscatlan</direccion>
+<telefono>6301-5236</telefono>
+<email>valcamp@example.com</email>
+<website>valeriacampos.com.sv</website>
+<dui>03257852-3</dui>
+<isss>048526793</isss>
+<afp>03254552365419</afp>
+</ficha>
+</fichero>

@@ -1,0 +1,6 @@
+/* ejemplo2.css   MV18058  */
+fichero {background-color:violet;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:skyblue;font-size:1cm; display:none;}
